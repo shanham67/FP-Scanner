@@ -1,0 +1,28 @@
+﻿****** Request User Count ******
+Request: 12/25/2011 9:55:44 AM.33964 (+9.6094 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 1D 00 21               ï.ÿÿÿÿ.....!    
+
+****** User count is 4 ******
+Answer: 12/25/2011 9:55:44 AM.35564 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 07 00 05 00 00 04 00 10         ï.ÿÿÿÿ........  
+
+***** Delete user 5 ****** (I think?)
+Request: 12/25/2011 9:56:03 AM.54264 (+19.1719 seconds)
+
+ EF 01 FF FF FF FF 01 00 07 0C 00 04 00 01 00 19   ï.ÿÿÿÿ..........
+
+Answer: 12/25/2011 9:56:03 AM.65264 (+0.0938 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......    
+
+***** Request User Count ******
+Request: 12/25/2011 9:56:11 AM.30864 (+7.6406 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 1D 00 21               ï.ÿÿÿÿ.....!    
+
+****** User count is 3 ******
+Answer: 12/25/2011 9:56:11 AM.33964 (+0.0156 seconds)
+
+ EF 01 FF FF FF FF 07 00 05 00 00 03 00 0F         ï.ÿÿÿÿ........

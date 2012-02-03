@@ -1,0 +1,101 @@
+Request: 12/18/2011 2:48:42 PM.34564 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 01 00 05               PS_GetImage   
+
+Answer: 12/18/2011 2:48:43 PM.14264 (+0.7813 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ACK
+
+Request: 12/18/2011 2:48:43 PM.15864 (+0.0156 seconds)
+
+ EF 01 FF FF FF FF 01 00 04 02 00 00 07            PS_GenChar in Buffer0
+
+Answer: 12/18/2011 2:48:43 PM.56464 (+0.4063 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ACK    
+
+Request: 12/18/2011 2:48:48 PM.45564 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 01 00 05               PS_GetImage    
+
+Answer: 12/18/2011 2:48:48 PM.81464 (+0.3438 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ACK    
+
+Request: 12/18/2011 2:48:48 PM.83064 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 04 02 01 00 08            PS_GenChar in Buffer1   
+
+Answer: 12/18/2011 2:48:49 PM.23664 (+0.3906 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ACK    
+
+Request: 12/18/2011 2:48:49 PM.25164 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 05 00 09               PS_RegModel    
+
+Answer: 12/18/2011 2:48:49 PM.28364 (+0.0313 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ACK    
+
+Request: 12/18/2011 2:48:49 PM.29864 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 06 06 01 00 02 00 10      PS_StoreChar 
+                                    ****
+Since This Enroll was for ID=3 and the one logged below has a 04 here
+when enrolling ID=5 we deduce that this is a 0 referenced fingerprint index
+ 
+
+***********************************************************
+*** This next section is from Enroll(5) transaction
+*** where '5' is the number typed into the text box on the 
+*** demo app
+*** 
+Request: 12/18/2011 3:03:24 PM.80564 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 01 00 05               ï.ÿÿÿÿ......    
+
+Answer: 12/18/2011 3:03:25 PM.36764 (+0.5469 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......    
+
+Request: 12/18/2011 3:03:25 PM.36764 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 04 02 00 00 07            ï.ÿÿÿÿ.......   
+
+Answer: 12/18/2011 3:03:25 PM.75864 (+0.3750 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......    
+
+Request: 12/18/2011 3:03:25 PM.36764 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 01 00 05               ï.ÿÿÿÿ......    
+
+Answer: 12/18/2011 3:03:26 PM.75864 (+0.5781 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......    
+
+Request: 12/18/2011 3:03:26 PM.77464 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 04 02 01 00 08            ï.ÿÿÿÿ.......   
+
+Answer: 12/18/2011 3:03:27 PM.18064 (+0.3906 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......    
+
+Request: 12/18/2011 3:03:27 PM.18064 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 03 05 00 09               ï.ÿÿÿÿ......    
+
+Answer: 12/18/2011 3:03:27 PM.22764 (+0.0469 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......    
+
+Request: 12/18/2011 3:03:27 PM.22764 (+0.0000 seconds)
+
+ EF 01 FF FF FF FF 01 00 06 06 01 00 04 00 12      ï.ÿÿÿÿ......... 
+                                    ****
+
+Answer: 12/18/2011 3:03:27 PM.52464 (+0.2813 seconds)
+
+ EF 01 FF FF FF FF 07 00 03 00 00 0A               ï.ÿÿÿÿ......
